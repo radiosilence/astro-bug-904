@@ -2042,9 +2042,9 @@ mdast-util-gfm@^0.1.0:
     mdast-util-to-markdown "^0.6.1"
 
 mdast-util-mdx-expression@^1.0.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/mdast-util-mdx-expression/-/mdast-util-mdx-expression-1.1.0.tgz#677d1175794d04951f96ceb3c8a698dbf2b43000"
-  integrity sha512-FTS2u2+sNSG3AeOY0gRj62Uw7mLDFSOGHN8Wcq6Of3kxfbYHfCO9If2viAzT2pUSZZTBKgIX6/86s8v+mKYgbg==
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/mdast-util-mdx-expression/-/mdast-util-mdx-expression-1.0.0.tgz#588449f13c037762c59a5c3dd342c1c0d51f4092"
+  integrity sha512-lQ6zzJwGt2/smaC3Sv74aJHej1sk9rO8+unfbP69Iq0G/Nbs9gTAzcjTNNXS8P/mdAPlxfA+F/vdxhxWK9ZzJQ==
   dependencies:
     "@types/estree-jsx" "^0.0.1"
     strip-indent "^4.0.0"

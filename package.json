@@ -1,8 +1,18 @@
 {
-  "name": "arg",
-  "workspaces": [
-    "ui",
-    "web"
-  ],
-  "private": true
+  "name": "@example/starter",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "astro dev",
+    "build": "astro build"
+  },
+  "devDependencies": {
+    "astro": "0.17.3",
+    "esbuild": "^0.12.16",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "@types/react": "^17.0.15",
+    "react": "^17.0.2"
+  }
 }
