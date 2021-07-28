@@ -7,7 +7,7 @@
     "build": "astro build"
   },
   "devDependencies": {
-    "astro": "0.17.3",
+    "astro": "0.18.1",
     "esbuild": "^0.12.16",
     "typescript": "^4.3.5"
   },
